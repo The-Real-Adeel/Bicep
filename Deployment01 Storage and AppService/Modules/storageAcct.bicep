@@ -1,5 +1,6 @@
 param locationResource string
 param storageAccName string 
+
 @allowed([
   'nonprod'
   'prod'
